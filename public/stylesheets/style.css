@@ -1,6 +1,5 @@
 body {
-    background: #272727;
-    color: #ffffff;
+    color: #272727;
     font: 100%/1.5 'Titillium Web', sans-serif;
 }
 
@@ -37,7 +36,6 @@ ul {
 }
 
 .message {
-    color: #fff;
     display: block;
     margin-bottom: 25px;
 }
@@ -48,7 +46,6 @@ ul {
 }
 
 .message-text {
-    color: #ffffff;
     margin-bottom: 10px;
 }
 
