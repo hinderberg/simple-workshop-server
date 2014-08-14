@@ -36,7 +36,10 @@ var MessageSchema = new mongoose.Schema({
   date: {
     type: Date,
     "default": Date.now
-  }
+  },
+  image: {
+    type: String    
+  } 
 });
 
 var MessageModel = mongoose.model('message', MessageSchema);

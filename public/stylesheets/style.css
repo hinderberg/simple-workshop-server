@@ -48,6 +48,10 @@ ul {
 .message-text {
     margin-bottom: 10px;
 }
+.message-image {
+    max-width: 100%;
+    height: auto;
+}
 
 .from {
     color: #FD5157;
