@@ -7,7 +7,8 @@ define([
     defaults: {
       from: "",
       message: "",
-      date: ""
+      date: "",
+      image: ""
     },
 
     urlRoot:"message"
